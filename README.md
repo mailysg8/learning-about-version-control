@@ -1,2 +1,4 @@
 # Learning about Version Control
-Author : Mailys Guedon
+
+Author : Mailys Guedon\
+Solving merge conflicts is soooooo hard!
